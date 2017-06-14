@@ -20,9 +20,9 @@ Coming soon.
 
 ## Contributing organizations
 
-- TOTAGO (Turn Off The App - Go Outside)
-- The Wilderness Society
-- Mount-Baker Snoqualmie National Forest
+- [TOTAGO (Turn Off The App - Go Outside)](https://www.totago.co)
+- [The Wilderness Society](http://wilderness.org/)
+- [Mount-Baker Snoqualmie National Forest](https://www.fs.usda.gov/mbs)
 
 ## Contact
 
